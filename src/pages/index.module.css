@@ -31,6 +31,11 @@
   justify-content: center;
 }
 
-img {
+.buttonTest {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.harpocratesLogo {
   height: 200px;
 }
