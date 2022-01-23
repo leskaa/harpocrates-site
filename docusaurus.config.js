@@ -44,20 +44,22 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'intro',
+            docId: 'tutorial/intro',
             position: 'left',
             label: 'Tutorial',
           },
           {to: '/features', label: 'Features', position: 'left'},
           {
-            to: 'https://discord.com/oauth2/authorize?client_id=934589572011134987&permissions=8&scope=bot',
+            type: 'doc',
+            docId: 'about/process',
+            position: 'left',
+            label: 'About',
+          },
+          {
+            href: 'https://discord.com/oauth2/authorize?client_id=934589572011134987&permissions=8&scope=bot',
             label: 'Add Harpocrates to your Discord',
             position: 'right',
           },
-          /*{
-            alt: 'Discord Logo',
-            src: 'img/Discord-Logo-Color.svg',
-          },*/
         ],
       },
       footer: {
