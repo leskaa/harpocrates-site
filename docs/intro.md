@@ -2,34 +2,14 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Harpocrates is a Discord bot that helps server admins and server members protect their personal information, protect eachother, and learn more about digital privacy, safety, and security.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Increasing the privacy and security of your Discord server members is easy with Harpocrates!
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+**[CLICK HERE](https://discord.com/api/oauth2/authorize?client_id=934589572011134987&permissions=8&scope=bot)** to add Harpocrates to your server!
 
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npm init docusaurus@latest my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and displays your changes.
+_Harpocrates requires administrator permissions in order to moderate messages sent in the Discord_
