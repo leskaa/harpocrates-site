@@ -20,6 +20,18 @@ Provides a few different tips that can that can improve a users data privacy and
 
 Command: `-tips`
 
+## Recent Scam
+
+Most recent internet scam found at https://www.consumer.ftc.gov/features/scam-alerts.
+
+Command: `-recentScam`
+
+## Bypass
+
+Bypasses the privacy filter feature if a user is sure they want to post a message containing sensitive information.
+
+Command: `-bypass <msg>`
+
 ## Getting Help with Commands
 
 Displays all of your available commands with descriptions.

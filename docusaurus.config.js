@@ -86,8 +86,8 @@ const config = {
                 href: 'https://minnehack-2022.devpost.com/',
               },
               {
-                label: 'Discord',
-                href: 'https://discord.com/',
+                label: 'Harpocrates Demo Discord',
+                href: 'https://discord.gg/6QgcJWsZ',
               },
             ],
           },
