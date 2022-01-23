@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/nightOwl');
 const config = {
   title: 'Harpocrates',
   tagline: 'Harpocrates was the Greek god of silence, secrets, and confidentiality. He will help you keep your private information safe and secure.',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://harpocrates.tech/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
