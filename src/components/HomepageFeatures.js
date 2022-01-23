@@ -64,7 +64,7 @@ export default function HomepageFeatures() {
           <div className={styles.buttons} style={{ margin: 'auto' }}>
             <Link
               className="button button--primary button--lg"
-              to="/docs/intro">
+              to="/features">
               More Features ...
             </Link>
           </div>

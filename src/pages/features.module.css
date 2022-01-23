@@ -1,0 +1,25 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+  
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.featuresTitle {
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+    background-color: #000195;
+}
+
+.featuresTitleText {
+    width: 100%;
+    font-family: 'Cinzel', serif;
+    font-size: 56px;
+}
+  

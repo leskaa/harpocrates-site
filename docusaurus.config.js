@@ -55,6 +55,7 @@ const config = {
             label: 'Tutorial',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/features', label: 'Features', position: 'left'},
           {
             href: 'https://github.com/leskaa/',
             label: 'GitHub',
