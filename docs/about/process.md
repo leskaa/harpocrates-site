@@ -41,7 +41,7 @@ Marguerite spent some time struggling with regular expressions and learning all 
 
 Trent learned how to scrape a website using Cheerio.JS and make sense of the data collected in order to decide whether this website has posted any new news. He also got the chance to setup the actual Discord bot using the Discord Development Portal and Replit which was a new experience for him.
 
-Alex learned a lot about using machine learning to identify addresses in text, as well as the difficulties and limitations of machine learning. 
+Alex learned a lot about natural language processing and named entity recognition. He also got the chance to try out a few frameworks and libraries he has been interested in for awhile. These included FastAPI for the address recognition microservice and Docusaurus for our landing page and documentation site.
 
 ## What's next for Harpocrates
 
