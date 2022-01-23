@@ -38,12 +38,38 @@ const FeatureList = [
         ),
     },
     {
-        title: 'Alert Users About Scams',
-        Svg: require('../../static/img/undraw_alert.svg').default,
+        title: 'Digital Privacy Tips Every Day',
+        Svg: require('../../static/img/undraw_teaching.svg').default,
         description: (
             <>
-                Harpocrates alerts users of new scams on discord. The bot monitors FTC
-                Consumer Information Scam Alerts and can notify your users.
+                Harpocrates will provide your discord with a tip or resource regarding digital privacy and security every morning to ensure your users won’t forget to stay safe!
+            </>
+        ),
+    },
+    {
+        title: 'Resources for Improving Privacy and Safety',
+        Svg: require('../../static/img/undraw_engineer.svg').default,
+        description: (
+            <>
+                On command, Harpocrates will provide helpful resources to learn more about digital privacy and to help your users implement a safer lifestyle. 
+            </>
+        ),
+    },
+    {
+        title: 'Custom Settings',
+        Svg: require('../../static/img/undraw_switches.svg').default,
+        description: (
+            <>
+                Server owners can customize Harpocrates to focus on only the features important to them. All of Harpocrates’ automated features can be enabled or disabled.
+            </>
+        ),
+    },
+    {
+        title: 'Provide Help for New Users',
+        Svg: require('../../static/img/undraw_questions.svg').default,
+        description: (
+            <>
+                In case your users aren’t familiar with Harpocrates, the bot will provide a list of commands that can be used to interact with the bot.
             </>
         ),
     },
